@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iuribe18
+- 👋 Hi, I’m Ivancho
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Azure DevOps
+- 🌱 I’m currently working as a DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
