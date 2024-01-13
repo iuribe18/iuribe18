@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivancho
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently working as a DevOps
+- 👀 I’m interested in Data Science, Cloud and DevOps.
+- 🌱 I’m currently working as a DevOps at Globant.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
